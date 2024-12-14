@@ -1,6 +1,6 @@
 # HR ANALYTICS DASHBOARD
 
-![HR ANALYSTICS DASHBOARD](https://github.com/user-attachments/assets/780ca774-9c98-4117-bcc3-4a9e49028b7d)
+![HR ANALYSTICS DASHBOARD](https://github.com/user-attachments/assets/7bce8de1-b2e4-41e0-b439-b789265e3f74)
 
 ## Overview
 
