@@ -71,7 +71,7 @@ This project provides a detailed HR analytics dashboard that visualizes key work
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/musu2004/HR-Analytics-Dashboard.git
+   git clone https://github.com/sp201004/HR-Analystics-Dashboard.git
    ```
 
 2. **Install Dependencies**  
