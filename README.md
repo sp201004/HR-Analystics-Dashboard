@@ -1,10 +1,13 @@
 # HR ANALYTICS DASHBOARD
 
-![HR ANALYSTICS DASHBOARD](https://github.com/user-attachments/assets/7bce8de1-b2e4-41e0-b439-b789265e3f74)
 
 ## Overview
 
 This project provides a detailed HR analytics dashboard that visualizes key workforce metrics. The goal is to assist HR professionals and organizational leaders in making data-driven decisions to improve employee satisfaction, retention, and overall workplace efficiency.
+
+
+![HR ANALYSTICS DASHBOARD](https://github.com/user-attachments/assets/7bce8de1-b2e4-41e0-b439-b789265e3f74)
+
 
 ---
 
