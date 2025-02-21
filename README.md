@@ -73,5 +73,3 @@ Open the Tableau workbook (`.twbx` file) and connect it to the provided dataset.
 Navigate through various charts and insights to analyze workforce trends.
 
 ---
-📌 **Enhance workforce management with data-driven insights using Tableau!** 🚀
-
